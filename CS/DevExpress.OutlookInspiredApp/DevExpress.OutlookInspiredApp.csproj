@@ -3,23 +3,23 @@
   <ItemGroup>
     <Reference Include="DevExpress.Data.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Mvvm.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Mvvm.v16.2.ViewModel">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Mvvm.v16.2.DataModel">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Mvvm.v16.2.DataModel.EF6">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <EmbeddedResource Include="Localization\DevAVDbResources.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
@@ -38,7 +38,7 @@
     <Compile Include="DevAVDbDataModel\DevAVDbMetadata.cs" />
     <Reference Include="DevExpress.Xpf.Core.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Compile Include="Common\SingleObjectViewModel.cs" />
     <Compile Include="Common\ReadOnlyCollectionViewModel.cs" />
@@ -47,7 +47,7 @@
     <Compile Include="Common\EntitiesViewModel.cs" />
     <Reference Include="DevExpress.Printing.v16.2.Core">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="PresentationFramework">
       <Private>False</Private>
@@ -91,47 +91,47 @@
     </Reference>
     <Reference Include="DevExpress.Xpf.Docking.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.Grid.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.Grid.v16.2.Core">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.Layout.v16.2.Core">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.LayoutControl.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.NavBar.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.Printing.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.Ribbon.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.Controls.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Xpf.ReportDesigner.v16.2">
       <Private>False</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Reference Include="DevExpress.Images.v16.2">
       <Private>True</Private>
-      <HintPath></HintPath>
+      
     </Reference>
     <Compile Include="ViewModels\Customer\CustomerCollectionViewModel.cs" />
     <Compile Include="ViewModels\Customer\CustomerViewModel.cs" />
